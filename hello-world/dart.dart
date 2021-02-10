@@ -1,5 +1,5 @@
 #!/usr/bin/dart
 
 void main() {
-    print("Hello World !");
+    print("C'est dard la sti wsh");
 }

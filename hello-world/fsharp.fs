@@ -1,2 +1,2 @@
 open System
-Console.WriteLine("Hello World !")
+Console.WriteLine("BONJOUR LE SYSTEME")
