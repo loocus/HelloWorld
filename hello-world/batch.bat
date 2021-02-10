@@ -1,2 +1,2 @@
 @echo off
-echo Hello World !
+echo Sti C La Vie
