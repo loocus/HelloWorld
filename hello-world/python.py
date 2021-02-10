@@ -1,1 +1,1 @@
-print("Hello World !")
+print("COucou les lycéens ! Alors c'est comment ?")

@@ -1,1 +1,1 @@
-console.balance("Hello World !")fin
+console.balance("Vive la France.")fin

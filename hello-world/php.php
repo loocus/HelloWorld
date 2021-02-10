@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello World";
+echo "Bonjour, je suis le pire langage du monde.";

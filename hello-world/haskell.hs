@@ -1,2 +1,2 @@
 main::IO ()
-main = putStrLn "Hello World !"
+main = putStrLn "Le saviez vous, la poutine c'est bon."
